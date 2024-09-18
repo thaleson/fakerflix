@@ -1,5 +1,3 @@
-Claro! Aqui está um exemplo de README.md para o seu projeto Django, com emojis e uma estrutura clara. Você pode ajustar o conteúdo conforme necessário para refletir o seu projeto específico.
-
 # 🎬 FakerFlix - Um Sistema de Filmes
 
 Bem-vindo ao **FakerFlix**! Um sistema de gerenciamento de filmes criado com Django, projetado para fornecer uma experiência completa de visualização e pesquisa de filmes.
